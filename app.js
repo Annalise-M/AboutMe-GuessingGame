@@ -25,7 +25,7 @@ function launchQuiz() {
     if (confirmed === false) {
         return;
     }
-    const emptyString = '';
+    // const emptyString = '';
 
     const firstName = prompt("What's do peole call you?");
     name = firstName;
